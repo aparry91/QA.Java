@@ -1,0 +1,1 @@
+Item{bookId='1'author='J K Rowling', title='Harry Potter', type='Book', isCheckedOut=false}Item{bookId='2'author='J R R Tolkein', title='Lord of the Rings', type='Book', isCheckedOut=false}Item{bookId='3'author='Ernest Cline', title='Ready Player One', type='Book', isCheckedOut=true}

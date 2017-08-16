@@ -1,0 +1,3 @@
+interface SystemLogin {
+    void login();
+}
